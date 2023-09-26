@@ -50,9 +50,9 @@
 		<property name="username" value="root" />
 		<property name="password" value="root" /> -->
 
-		<property name="url" value="jdbc:mysql://localhost:3306/java"
+		<property name="url" value="jdbc:mysql://localhost:3306/allard19u_coa_banque"
 			/> <property name="username" value="root" /> <property name="password"
-			value="" />
+			value="root" />
 	</bean>
 
 	<!-- ============= Gestion des Transactions ============= -->
