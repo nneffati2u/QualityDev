@@ -30,5 +30,7 @@
 		<s:a href="%{redirectionLogin}">Page de Login</s:a>
 	</p>
 </body>
-<jsp:include page="/JSP/Footer.jsp" />
+<footer>
+	<p>Projet CO Avancée 2017-2018</p>
+</footer>
 </html>
