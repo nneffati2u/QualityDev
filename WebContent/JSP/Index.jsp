@@ -9,9 +9,9 @@
 		alert('Ce TD a été donné pour les AS dans le cadre du cours de CO Avancé (Promotion 2017-2018)');
 	}
 </script>
-<link rel="stylesheet" href="/_00_ASBank2018/style/style.css" />
-<link href="/_00_ASBank2018/style/favicon.ico" rel="icon"
-	type="image/x-icon" />
+<link rel="stylesheet" href="style/style.css" />
+<!--<link href="style/favicon.ico" rel="icon"
+	type="image/x-icon" />-->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Application IUT Bank</title>
