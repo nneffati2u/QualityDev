@@ -20,7 +20,7 @@
 	<h1>Bienvenue sur l'application IUT Bank 2018</h1>
 	<p>
 		<img
-			src="https://www.iut-metz.univ-lorraine.fr/images/AdminSite/Logos/Logo_IUT_Metz.UL.small.png"
+			src="https://iut-metz.univ-lorraine.fr/sites/default/files/inline-images/logo-iut-metz.png"
 			alt="logo" />
 	</p>
 	<input type="button" value="Information" name="info"
@@ -30,7 +30,5 @@
 		<s:a href="%{redirectionLogin}">Page de Login</s:a>
 	</p>
 </body>
-<footer>
-	<p>Projet CO Avancée 2017-2018</p>
-</footer>
+<jsp:include page="/JSP/Footer.jsp" />
 </html>
